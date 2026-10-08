@@ -1,14 +1,14 @@
-// function highlightNotices() {
+function highlightNotices() {
 
-//     let notice = document.getElementsByTagName("p");
+    let notice = document.getElementsByTagName("p");
 
-//     for (let i = 0; i < notice.length; i++) {
-//         console.log(notice[i].innerHTML);
+    for (let i = 0; i < notice.length; i++) {
+        console.log(notice[i].innerHTML);
 
-//         notice[i].className = "notice";
+        notice[i].className = "notice";
 
-//     }
-// }
+    }
+}
 
 function highlightRules() {
     let rules = document.getElementById("studentRules");

@@ -3,7 +3,7 @@ body{
     text-align: center;
 }
 
-/* p{
+p{
     padding: 10px;
 }
 
@@ -22,7 +22,7 @@ body{
     width: 140px;
     border-radius: 10px;
     border: none;
-} */
+}
 
 .rule{
     background-color: rgb(0, 0, 0);
